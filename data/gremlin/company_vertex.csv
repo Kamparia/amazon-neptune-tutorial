@@ -1,0 +1,3 @@
+~id, ~label, name:string
+c-1, Company, "Example Corp"
+c-2, Company, "AnyCompany"

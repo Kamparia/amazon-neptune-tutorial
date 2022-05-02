@@ -1,0 +1,7 @@
+~id, ~from, ~label, ~to, role:string
+pc-1, p-1, worked-for, c-1, "Principal Analyst"
+pc-2, p-2, worked-for, c-1, "Senior Analyst"
+pc-3, p-3, worked-for, c-1, "Analyst"
+pc-4, p-4, worked-for, c-1, "Analyst"
+pc-5, p-5, worked-for, c-2, "Manager"
+pc-6, p-3, worked-for, c-2, "Associate Analyst"

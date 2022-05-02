@@ -1,0 +1,6 @@
+~id, ~label, firstName:string, lastName:string
+p-1, Person, "Martha", "Rivera"
+p-2, Person, "Richard", "Roe"
+p-3, Person, "Li", "Juan"
+p-4, Person, "John", "Stiles"
+p-5, Person, "Saanvi", "Sarkar"
